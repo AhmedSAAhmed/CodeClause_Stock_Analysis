@@ -2,7 +2,7 @@
   ## Stock Prediction Quick Guide For Beginners Using Data Sceince (EDA,LTSM,KNN)
 ## _Introduction_
 
-![N|Solid](https://www.investopedia.com/thmb/hATOUQ_Iq5v5CgGKLhrj22v1aXM=/2120x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1300495462-e66753342f304f45a9215505352b596a.jpg)](https://nodesource.com/products/nsolid)
+![N|Solid](https://www.investopedia.com/thmb/hATOUQ_Iq5v5CgGKLhrj22v1aXM=/2120x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1300495462-e66753342f304f45a9215505352b596a.jpg)
 
 
 Everybody has think atleast for a once to invest in stocks, thinking about whether it is a good idea to invest in something you barely know in that case study i will show you how to invest in stock market with a knowledge related to big stocks comapnies APPLE,GOOGLE, etc... (FAANG).

@@ -8,7 +8,6 @@
 Everybody has think atleast for a once to invest in stocks, thinking about whether it is a good idea to invest in something you barely know in that case study i will show you how to invest in stock market with a knowledge related to big stocks comapnies APPLE,GOOGLE, etc... (FAANG).
 
 We need to know first the stock types and what is the type that i am going to work on ?
--
 - Large Cap Stocks: These are often stocks of Blue-chip companies which are established enterprises with large reserves of cash at their disposal. It is interesting to note that the larger size of the large cap companies does not mean that they grow more rapidly. In fact it is the small stock companies that tend to outperform them over the longer time frame. But large cap stocks do come with the benefit of allowing the investors to reap higher dividends in comparison to the smaller and mid cap companies stocks, ensuring that the capital is preserved over the long term period.(The model that we will work on like APPLE,AMAZON, etc.....)
 
 - Mid Cap Stocks: These are the stocks of medium sized companies that have a market capitalization of INR 250 Crore to about INR 4000 crore. These companies have a well recognize name in the market which brings along the benefit of potential for growth, as well as the stability that is usually accompanied with being a seasoned player in the market.
